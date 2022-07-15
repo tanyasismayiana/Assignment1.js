@@ -49,3 +49,29 @@ console.log("Average grade: " + (Avgmarks)/students.length);
         } else if (avg < 100) {
                 console.log("Grade : A"); 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <p id="demo">Hi</p>
+<p id="demo1">Hello</p>
+<h1>This is a heading</h1> 
+<p>This is a paragraph of text.</p> 
+<  button  type  =  "button"  onclick  =  "document.write('Hello World!')"  >Click Me</  button  >  -->
+
+<!-- <p id=  "greet"  ></  p  > 
+<p id=  "result"  ></  p  > 
+<script> 
+// Writing text string inside an element 
+document.getElementById(  "greet"  ).innerHTML =  "Hello  World!"  ; 
+<script src="index.js"></script> -->
+

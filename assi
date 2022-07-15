@@ -1,0 +1,25 @@
+class Kiosk{
+//     constructor (){
+//         this.item={}
+
+//     }
+//     add(item,price){
+//         this.item[item]=price 
+//     }
+//     retrive(item){
+//         return this.item[item]
+
+//     }
+// }
+// const tanya= new Kiosk()
+// tanya.add("Banana",20)
+// tanya.add("Orange",40)
+// tanya.add("Mango",50)
+
+// function calculateFruitCost(fruitName, quantity){
+//     var fruitsPrice= tanya.retrive(fruitName)
+
+//     return `${quantity} ${fruitName} KSH ${fruitsPrice*quantity}`
+
+// }
+// console.log(calculateFruitCost("Banana",5))
